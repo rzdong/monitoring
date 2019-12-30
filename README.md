@@ -22,4 +22,8 @@
    - 请求日志
    - 页面埋点统计
    
-   
+
+## 依赖
+ - html2canvas
+ - axios
+ - route  // vue的路由 方便进行路由上报，这里的实现也可以原生监听pushstate解决
